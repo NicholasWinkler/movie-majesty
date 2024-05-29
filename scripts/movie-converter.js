@@ -1,4 +1,4 @@
-import { movies } from './movies-data.js';
+import { movies } from './movies-data.mjs';
 
 export const generateMoviesHTML = () => {
     let movieHTML = '';
